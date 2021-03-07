@@ -7,7 +7,7 @@ namespace Palindrome
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(IsPalindrome("abikba"));
+            Console.WriteLine(IsPalindrome("radar"));
         }
         static bool IsPalindrome(string s)
         {
